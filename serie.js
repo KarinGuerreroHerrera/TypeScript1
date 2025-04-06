@@ -4,9 +4,7 @@ var serie = /** @class */ (function () {
         this.name = name;
         this.channel = channel;
         this.seasons = seasons;
-        this.description = description; 
-        this.webpage = webpage; 
-        this.poster = poster;
+        
     }
     return serie;
 }());
